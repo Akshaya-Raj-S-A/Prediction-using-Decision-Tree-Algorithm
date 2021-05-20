@@ -4,7 +4,7 @@
 
 # (Level - Intermediate)
 
-SOLUTION SET: 
+PROBLEM STATEMENT: 
 
 ● Create the Decision Tree classifier and visualize it graphically.
 
